@@ -1,0 +1,73 @@
+{
+  "popup_win_default": {
+    "en": "You received!",
+    "id": "Mendapatkan!",
+    "th": "คุณได้รับ!",
+    "vn": "Bạn nhận được!",
+    "hi": "आपको प्राप्त हुआ!",
+    "ms": "Anda menerima!",
+    "zn-cn": "您获得了！",
+    "zh-hant": "您獲得了！",
+    "ja": "獲得しました！",
+    "ko": "획득하셨습니다!",
+    "pt-br": "Você recebeu!",
+    "af": "Jy het ontvang!",
+    "es": "¡Has recibido!",
+    "tr": "Kazandınız!",
+    "ar": "¡Has recibido!"
+  },
+
+  "popup_win_10_25": {
+    "en": "You received a big reward!",
+    "id": "Mendapatkan Hadiah Besar!",
+    "th": "คุณได้รับรางวัลใหญ่!",
+    "vn": "Bạn nhận được phần thưởng lớn!",
+    "hi": "आपको बड़ा इनाम मिला!",
+    "ms": "Anda menerima ganjaran besar!",
+    "zn-cn": "您获得了丰厚奖励！",
+    "zh-hant": "您獲得了豐厚獎勵！",
+    "ja": "大きな報酬を獲得しました！",
+    "ko": "큰 보상을 획득하셨습니다!",
+    "pt-br": "Você recebeu uma grande recompensa!",
+    "af": "Jy het 'n groot beloning ontvang!",
+    "es": "¡Has recibido una gran recompensa!",
+    "tr": "Büyük bir ödül kazandınız!",
+    "ar": "¡Has recibido una gran recompensa!"
+  },
+
+  "popup_win_25_50": {
+    "en": "You received a huge reward!",
+    "id": "Mendapatkan Hadiah Besar Sekali!",
+    "th": "คุณได้รับรางวัลมหาศาล!",
+    "vn": "Bạn nhận được phần thưởng khổng lồ!",
+    "hi": "आपको बहुत बड़ा इनाम मिला!",
+    "ms": "Anda menerima ganjaran yang sangat besar!",
+    "zn-cn": "您获得了巨额奖励！",
+    "zh-hant": "您獲得了巨額獎勵！",
+    "ja": "非常に大きな報酬を獲得しました！",
+    "ko": "엄청난 보상을 획득하셨습니다!",
+    "pt-br": "Você recebeu uma recompensa enorme!",
+    "af": "Jy het 'n enorme beloning ontvang!",
+    "es": "¡Has recibido una recompensa enorme!",
+    "tr": "Büyük bir ödül kazandınız!",
+    "ar": "¡Has recibido una recompensa enorme!"
+  },
+
+  "popup_win_50_max": {
+    "en": "MEGA REWARD!",
+    "id": "MEGA HADIAH!",
+    "th": "รางวัลเมก้า!",
+    "vn": "SIÊU PHẦN THƯỞNG!",
+    "hi": "मेगा इनाम!",
+    "ms": "GANJARAN MEGA!",
+    "zn-cn": "超级奖励！",
+    "zh-hant": "超級獎勵！",
+    "ja": "メガ報酬！",
+    "ko": "메가 보상!",
+    "pt-br": "MEGA RECOMPENSA!",
+    "af": "MEGA-BELONING!",
+    "es": "¡MEGA RECOMPENSA!",
+    "tr": "MEGA ÖDÜL!",
+    "ar": "¡MEGA RECOMPENSA!"
+  }
+}
